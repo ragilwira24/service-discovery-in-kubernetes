@@ -80,7 +80,7 @@ public class ExchangeValue {
 	public void setIpAddress(String ipAddress) {
 		this.ipAddress = ipAddress;
 	}
-	
+
 	@Override
 	public String toString() {
 		return "ExchangeValue [id=" + id + ", from=" + from + ", to=" + to + ", conversionMultiple="
